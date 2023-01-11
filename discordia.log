@@ -1,0 +1,878 @@
+2021-11-03 16:11:28 | [INFO]    | Discordia 2.9.1
+2021-11-03 16:11:28 | [INFO]    | Connecting to Discord...
+2021-11-03 16:11:33 | [INFO]    | Authenticated as Thomson#5289
+2021-11-03 16:11:33 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-11-03 16:11:34 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-11-03 16:11:34 | [INFO]    | Shard 0 : Received HELLO
+2021-11-03 16:11:34 | [INFO]    | Shard 0 : Received READY
+2021-11-03 17:33:26 | [INFO]    | Shard 0 : Disconnected
+2022-04-21 15:19:23 | [INFO]    | Discordia 2.9.1
+2022-04-21 15:19:23 | [INFO]    | Connecting to Discord...
+2022-04-21 15:19:23 | [INFO]    | Authenticated as Thomson#5289
+2022-04-21 15:19:24 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-04-21 15:19:24 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-04-21 15:19:24 | [INFO]    | Shard 0 : Received HELLO
+2022-04-21 15:19:24 | [INFO]    | Shard 0 : Received READY
+2022-04-21 15:25:16 | [INFO]    | Shard 0 : Disconnected
+2022-04-21 15:53:01 | [INFO]    | Discordia 2.9.1
+2022-04-21 15:53:01 | [INFO]    | Connecting to Discord...
+2022-04-21 15:53:01 | [INFO]    | Authenticated as Thomson#5289
+2022-04-21 15:53:01 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-04-21 15:53:01 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-04-21 15:53:01 | [INFO]    | Shard 0 : Received HELLO
+2022-04-21 15:53:02 | [INFO]    | Shard 0 : Received READY
+2022-04-21 15:55:54 | [INFO]    | Shard 0 : Disconnected
+2022-04-21 16:18:09 | [INFO]    | Discordia 2.9.1
+2022-04-21 16:18:09 | [INFO]    | Connecting to Discord...
+2022-04-21 16:18:09 | [INFO]    | Authenticated as Thomson#5289
+2022-04-21 16:18:09 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-04-21 16:18:09 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-04-21 16:18:09 | [INFO]    | Shard 0 : Received HELLO
+2022-04-21 16:18:10 | [INFO]    | Shard 0 : Received READY
+2022-04-21 16:18:51 | [INFO]    | Discordia 2.9.1
+2022-04-21 16:18:51 | [INFO]    | Connecting to Discord...
+2022-04-21 16:18:51 | [INFO]    | Authenticated as Thomson#5289
+2022-04-21 16:18:51 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-04-21 16:18:51 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-04-21 16:18:51 | [INFO]    | Shard 0 : Received HELLO
+2022-04-21 16:18:51 | [INFO]    | Shard 0 : Received READY
+2022-04-21 16:19:54 | [INFO]    | Discordia 2.9.1
+2022-04-21 16:19:54 | [INFO]    | Connecting to Discord...
+2022-04-21 16:19:54 | [INFO]    | Authenticated as Thomson#5289
+2022-04-21 16:19:54 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-04-21 16:19:54 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-04-21 16:19:54 | [INFO]    | Shard 0 : Received HELLO
+2022-04-21 16:19:55 | [INFO]    | Shard 0 : Received READY
+2022-04-21 16:24:08 | [INFO]    | Discordia 2.9.1
+2022-04-21 16:24:08 | [INFO]    | Connecting to Discord...
+2022-04-21 16:24:09 | [INFO]    | Authenticated as Thomson#5289
+2022-04-21 16:24:09 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-04-21 16:24:09 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-04-21 16:24:09 | [INFO]    | Shard 0 : Received HELLO
+2022-04-21 16:24:09 | [INFO]    | Shard 0 : Received READY
+2022-04-21 16:26:01 | [INFO]    | Discordia 2.9.1
+2022-04-21 16:26:01 | [INFO]    | Connecting to Discord...
+2022-04-21 16:26:02 | [INFO]    | Authenticated as Thomson#5289
+2022-04-21 16:26:02 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-04-21 16:26:02 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-04-21 16:26:02 | [INFO]    | Shard 0 : Received HELLO
+2022-04-21 16:26:02 | [INFO]    | Shard 0 : Received READY
+2022-04-21 16:33:43 | [INFO]    | Discordia 2.9.1
+2022-04-21 16:33:43 | [INFO]    | Connecting to Discord...
+2022-04-21 16:33:43 | [INFO]    | Authenticated as Thomson#5289
+2022-04-21 16:33:43 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-04-21 16:33:43 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-04-21 16:33:43 | [INFO]    | Shard 0 : Received HELLO
+2022-04-21 16:33:43 | [INFO]    | Shard 0 : Received READY
+2022-04-21 16:34:45 | [INFO]    | Discordia 2.9.1
+2022-04-21 16:34:45 | [INFO]    | Connecting to Discord...
+2022-04-21 16:34:45 | [INFO]    | Authenticated as Thomson#5289
+2022-04-21 16:34:45 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-04-21 16:34:45 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-04-21 16:34:45 | [INFO]    | Shard 0 : Received HELLO
+2022-04-21 16:34:46 | [INFO]    | Shard 0 : Received READY
+2022-04-21 16:36:02 | [INFO]    | Discordia 2.9.1
+2022-04-21 16:36:02 | [INFO]    | Connecting to Discord...
+2022-04-21 16:36:02 | [INFO]    | Authenticated as Thomson#5289
+2022-04-21 16:36:02 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-04-21 16:36:02 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-04-21 16:36:02 | [INFO]    | Shard 0 : Received HELLO
+2022-04-21 16:36:03 | [INFO]    | Shard 0 : Received READY
+2022-04-21 16:38:01 | [INFO]    | Shard 0 : Disconnected
+2022-04-21 16:38:01 | [INFO]    | Shard 0 : Reconnecting after 963 ms...
+2022-04-21 16:38:02 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-04-21 16:38:02 | [INFO]    | Shard 0 : Received HELLO
+2022-04-21 16:38:02 | [INFO]    | Shard 0 : Received RESUMED
+2022-04-21 16:41:21 | [INFO]    | Shard 0 : Disconnected
+2022-04-21 17:15:01 | [INFO]    | Discordia 2.9.1
+2022-04-21 17:15:01 | [INFO]    | Connecting to Discord...
+2022-04-21 17:15:02 | [INFO]    | Authenticated as Thomson#5289
+2022-04-21 17:15:02 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-04-21 17:15:02 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-04-21 17:15:02 | [INFO]    | Shard 0 : Received HELLO
+2022-04-21 17:15:02 | [INFO]    | Shard 0 : Received READY
+2022-04-21 17:16:14 | [INFO]    | Discordia 2.9.1
+2022-04-21 17:16:14 | [INFO]    | Connecting to Discord...
+2022-04-21 17:16:14 | [INFO]    | Authenticated as Thomson#5289
+2022-04-21 17:16:14 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-04-21 17:16:14 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-04-21 17:16:14 | [INFO]    | Shard 0 : Received HELLO
+2022-04-21 17:16:14 | [INFO]    | Shard 0 : Received READY
+2022-04-21 17:18:26 | [INFO]    | Discordia 2.9.1
+2022-04-21 17:18:26 | [INFO]    | Connecting to Discord...
+2022-04-21 17:18:26 | [INFO]    | Authenticated as Thomson#5289
+2022-04-21 17:18:26 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-04-21 17:18:26 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-04-21 17:18:26 | [INFO]    | Shard 0 : Received HELLO
+2022-04-21 17:18:26 | [INFO]    | Shard 0 : Received READY
+2022-04-21 17:18:51 | [ERROR]   | 400 - Bad Request : PATCH https://discord.com/api/v7/channels/672769067475533834/messages/734469061676761139
+2022-04-21 17:21:37 | [INFO]    | Discordia 2.9.1
+2022-04-21 17:21:37 | [INFO]    | Connecting to Discord...
+2022-04-21 17:21:37 | [INFO]    | Authenticated as Thomson#5289
+2022-04-21 17:21:38 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-04-21 17:21:38 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-04-21 17:21:38 | [INFO]    | Shard 0 : Received HELLO
+2022-04-21 17:21:38 | [INFO]    | Shard 0 : Received READY
+2022-04-21 17:21:55 | [ERROR]   | 400 - Bad Request : PATCH https://discord.com/api/v7/channels/671673209191399454/messages/678654296396529695
+2022-04-21 17:23:03 | [INFO]    | Discordia 2.9.1
+2022-04-21 17:23:03 | [INFO]    | Connecting to Discord...
+2022-04-21 17:23:03 | [INFO]    | Authenticated as Thomson#5289
+2022-04-21 17:23:03 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-04-21 17:23:03 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-04-21 17:23:03 | [INFO]    | Shard 0 : Received HELLO
+2022-04-21 17:23:04 | [INFO]    | Shard 0 : Received READY
+2022-04-21 17:23:14 | [ERROR]   | 400 - Bad Request : PATCH https://discord.com/api/v7/channels/672769067475533834/messages/734469061676761139
+2022-04-21 17:23:44 | [INFO]    | Discordia 2.9.1
+2022-04-21 17:23:44 | [INFO]    | Connecting to Discord...
+2022-04-21 17:23:44 | [INFO]    | Authenticated as Thomson#5289
+2022-04-21 17:23:44 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-04-21 17:23:44 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-04-21 17:23:44 | [INFO]    | Shard 0 : Received HELLO
+2022-04-21 17:23:45 | [INFO]    | Shard 0 : Received READY
+2022-04-21 17:23:58 | [ERROR]   | 400 - Bad Request : PATCH https://discord.com/api/v7/channels/672769067475533834/messages/734469061676761139
+2022-04-21 17:27:06 | [INFO]    | Discordia 2.9.1
+2022-04-21 17:27:06 | [INFO]    | Connecting to Discord...
+2022-04-21 17:27:06 | [INFO]    | Authenticated as Thomson#5289
+2022-04-21 17:27:06 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-04-21 17:27:06 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-04-21 17:27:06 | [INFO]    | Shard 0 : Received HELLO
+2022-04-21 17:27:06 | [INFO]    | Shard 0 : Received READY
+2022-04-21 17:27:19 | [ERROR]   | 400 - Bad Request : PATCH https://discord.com/api/v7/channels/672769067475533834/messages/734469061676761139
+2022-04-21 17:29:41 | [INFO]    | Discordia 2.9.1
+2022-04-21 17:29:41 | [INFO]    | Connecting to Discord...
+2022-04-21 17:29:42 | [INFO]    | Authenticated as Thomson#5289
+2022-04-21 17:29:42 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-04-21 17:29:42 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-04-21 17:29:42 | [INFO]    | Shard 0 : Received HELLO
+2022-04-21 17:29:42 | [INFO]    | Shard 0 : Received READY
+2022-04-21 17:31:03 | [INFO]    | Discordia 2.9.1
+2022-04-21 17:31:03 | [INFO]    | Connecting to Discord...
+2022-04-21 17:31:03 | [INFO]    | Authenticated as Thomson#5289
+2022-04-21 17:31:03 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-04-21 17:31:04 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-04-21 17:31:04 | [INFO]    | Shard 0 : Received HELLO
+2022-04-21 17:31:04 | [INFO]    | Shard 0 : Received READY
+2022-04-21 17:31:20 | [ERROR]   | 400 - Bad Request : PATCH https://discord.com/api/v7/channels/672769067475533834/messages/734469061676761139
+2022-04-21 17:31:58 | [INFO]    | Discordia 2.9.1
+2022-04-21 17:31:58 | [INFO]    | Connecting to Discord...
+2022-04-21 17:31:58 | [INFO]    | Authenticated as Thomson#5289
+2022-04-21 17:31:58 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-04-21 17:31:59 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-04-21 17:31:59 | [INFO]    | Shard 0 : Received HELLO
+2022-04-21 17:31:59 | [INFO]    | Shard 0 : Received READY
+2022-04-21 17:32:14 | [ERROR]   | 400 - Bad Request : PATCH https://discord.com/api/v7/channels/672769067475533834/messages/966798397229133825
+2022-04-21 17:35:34 | [ERROR]   | 400 - Bad Request : PATCH https://discord.com/api/v7/channels/672769067475533834/messages/966798397229133825
+2022-04-21 17:38:43 | [ERROR]   | 400 - Bad Request : PATCH https://discord.com/api/v7/channels/672769067475533834/messages/966798397229133825
+2022-04-21 17:45:40 | [INFO]    | Discordia 2.9.1
+2022-04-21 17:45:40 | [INFO]    | Connecting to Discord...
+2022-04-21 17:45:40 | [INFO]    | Authenticated as Thomson#5289
+2022-04-21 17:45:40 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-04-21 17:45:41 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-04-21 17:45:41 | [INFO]    | Shard 0 : Received HELLO
+2022-04-21 17:45:41 | [INFO]    | Shard 0 : Received READY
+2022-04-21 17:46:56 | [INFO]    | Discordia 2.9.1
+2022-04-21 17:46:56 | [INFO]    | Connecting to Discord...
+2022-04-21 17:46:56 | [INFO]    | Authenticated as Thomson#5289
+2022-04-21 17:46:56 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-04-21 17:46:57 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-04-21 17:46:57 | [INFO]    | Shard 0 : Received HELLO
+2022-04-21 17:46:57 | [INFO]    | Shard 0 : Received READY
+2022-04-21 17:47:04 | [ERROR]   | 400 - Bad Request : PATCH https://discord.com/api/v7/channels/672769067475533834/messages/966798397229133825
+2022-04-21 17:50:45 | [INFO]    | Discordia 2.9.1
+2022-04-21 17:50:45 | [INFO]    | Connecting to Discord...
+2022-04-21 17:50:45 | [INFO]    | Authenticated as Thomson#5289
+2022-04-21 17:50:45 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-04-21 17:50:45 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-04-21 17:50:45 | [INFO]    | Shard 0 : Received HELLO
+2022-04-21 17:50:46 | [INFO]    | Shard 0 : Received READY
+2022-04-21 17:52:21 | [INFO]    | Discordia 2.9.1
+2022-04-21 17:52:21 | [INFO]    | Connecting to Discord...
+2022-04-21 17:52:21 | [INFO]    | Authenticated as Thomson#5289
+2022-04-21 17:52:21 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-04-21 17:52:21 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-04-21 17:52:21 | [INFO]    | Shard 0 : Received HELLO
+2022-04-21 17:52:21 | [INFO]    | Shard 0 : Received READY
+2022-04-21 17:52:28 | [ERROR]   | 400 - Bad Request : PATCH https://discord.com/api/v7/channels/672769067475533834/messages/966798397229133825
+2022-04-21 17:56:56 | [INFO]    | Discordia 2.9.1
+2022-04-21 17:56:56 | [INFO]    | Connecting to Discord...
+2022-04-21 17:56:56 | [INFO]    | Authenticated as Thomson#5289
+2022-04-21 17:56:56 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-04-21 17:56:56 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-04-21 17:56:56 | [INFO]    | Shard 0 : Received HELLO
+2022-04-21 17:56:57 | [INFO]    | Shard 0 : Received READY
+2022-04-21 18:05:22 | [INFO]    | Discordia 2.9.1
+2022-04-21 18:05:22 | [INFO]    | Connecting to Discord...
+2022-04-21 18:05:22 | [INFO]    | Authenticated as Thomson#5289
+2022-04-21 18:05:22 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-04-21 18:05:22 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-04-21 18:05:22 | [INFO]    | Shard 0 : Received HELLO
+2022-04-21 18:05:22 | [INFO]    | Shard 0 : Received READY
+2022-04-21 18:05:48 | [INFO]    | Discordia 2.9.1
+2022-04-21 18:05:48 | [INFO]    | Connecting to Discord...
+2022-04-21 18:05:48 | [INFO]    | Authenticated as Thomson#5289
+2022-04-21 18:05:48 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-04-21 18:05:49 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-04-21 18:05:49 | [INFO]    | Shard 0 : Received HELLO
+2022-04-21 18:05:49 | [INFO]    | Shard 0 : Received READY
+2022-04-21 18:07:51 | [INFO]    | Discordia 2.9.1
+2022-04-21 18:07:51 | [INFO]    | Connecting to Discord...
+2022-04-21 18:07:52 | [INFO]    | Authenticated as Thomson#5289
+2022-04-21 18:07:52 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-04-21 18:07:52 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-04-21 18:07:52 | [INFO]    | Shard 0 : Received HELLO
+2022-04-21 18:07:52 | [INFO]    | Shard 0 : Received READY
+2022-04-21 18:08:06 | [INFO]    | Shard 0 : Disconnected
+2022-05-06 15:57:10 | [INFO]    | Discordia 2.9.1
+2022-05-06 15:57:10 | [INFO]    | Connecting to Discord...
+2022-05-06 15:57:11 | [INFO]    | Authenticated as Thomson#5289
+2022-05-06 15:57:11 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-05-06 15:57:11 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-05-06 15:57:11 | [INFO]    | Shard 0 : Received HELLO
+2022-05-06 15:57:11 | [INFO]    | Shard 0 : Received READY
+2022-05-06 15:59:35 | [INFO]    | Discordia 2.9.1
+2022-05-06 15:59:35 | [INFO]    | Connecting to Discord...
+2022-05-06 15:59:36 | [INFO]    | Authenticated as Thomson#5289
+2022-05-06 15:59:36 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-05-06 15:59:37 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-05-06 15:59:37 | [INFO]    | Shard 0 : Received HELLO
+2022-05-06 15:59:37 | [INFO]    | Shard 0 : Received READY
+2022-05-06 16:10:10 | [INFO]    | Discordia 2.9.1
+2022-05-06 16:10:10 | [INFO]    | Connecting to Discord...
+2022-05-06 16:10:12 | [INFO]    | Authenticated as Thomson#5289
+2022-05-06 16:10:12 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-05-06 16:10:13 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-05-06 16:10:13 | [INFO]    | Shard 0 : Received HELLO
+2022-05-06 16:10:13 | [INFO]    | Shard 0 : Received READY
+2022-05-06 17:07:11 | [INFO]    | Shard 0 : Disconnected
+2022-05-06 17:07:11 | [INFO]    | Shard 0 : Reconnecting after 962 ms...
+2022-05-06 17:07:20 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-05-06 17:07:20 | [INFO]    | Shard 0 : Received HELLO
+2022-05-06 17:07:22 | [INFO]    | Shard 0 : Session invalidated, re-identifying...
+2022-05-06 17:07:24 | [INFO]    | Shard 0 : Received READY
+2022-05-06 17:33:54 | [INFO]    | Shard 0 : Disconnected
+2022-05-06 17:33:54 | [INFO]    | Shard 0 : Reconnecting after 1071 ms...
+2022-05-06 17:33:55 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-05-06 17:33:55 | [INFO]    | Shard 0 : Received HELLO
+2022-05-06 17:33:55 | [INFO]    | Shard 0 : Session invalidated, re-identifying...
+2022-05-06 17:33:59 | [INFO]    | Shard 0 : Received READY
+2022-05-06 17:56:55 | [INFO]    | Discordia 2.9.1
+2022-05-06 17:56:55 | [INFO]    | Connecting to Discord...
+2022-05-06 17:56:55 | [INFO]    | Authenticated as Thomson#5289
+2022-05-06 17:56:56 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-05-06 17:56:56 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-05-06 17:56:56 | [INFO]    | Shard 0 : Received HELLO
+2022-05-06 17:56:56 | [INFO]    | Shard 0 : Received READY
+2022-05-07 15:05:22 | [INFO]    | Discordia 2.9.1
+2022-05-07 15:05:22 | [INFO]    | Connecting to Discord...
+2022-05-07 15:05:24 | [INFO]    | Authenticated as Thomson#5289
+2022-05-07 15:05:25 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-05-07 15:05:28 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-05-07 15:05:28 | [INFO]    | Shard 0 : Received HELLO
+2022-05-07 15:05:29 | [INFO]    | Shard 0 : Received READY
+2022-05-07 15:09:12 | [INFO]    | Discordia 2.9.1
+2022-05-07 15:09:12 | [INFO]    | Connecting to Discord...
+2022-05-07 15:09:14 | [INFO]    | Authenticated as Thomson#5289
+2022-05-07 15:09:14 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-05-07 15:09:14 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-05-07 15:09:14 | [INFO]    | Shard 0 : Received HELLO
+2022-05-07 15:09:14 | [INFO]    | Shard 0 : Received READY
+2022-05-07 15:14:17 | [WARNING] | Shard 0 : 1000 - Connection closed
+2022-05-07 15:14:17 | [INFO]    | Shard 0 : Disconnected
+2022-05-07 15:14:17 | [INFO]    | Shard 0 : Reconnecting after 920 ms...
+2022-05-07 15:14:20 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-05-07 15:14:20 | [INFO]    | Shard 0 : Received HELLO
+2022-05-07 15:14:20 | [INFO]    | Shard 0 : Received RESUMED
+2022-05-07 15:16:48 | [INFO]    | Shard 0 : Disconnected
+2022-05-07 15:16:48 | [INFO]    | Shard 0 : Reconnecting after 1037 ms...
+2022-05-07 15:18:59 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (ENETUNREACH)
+2022-05-07 15:18:59 | [INFO]    | Shard 0 : Reconnecting after 1886 ms...
+2022-05-07 15:19:01 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-05-07 15:19:01 | [INFO]    | Shard 0 : Received HELLO
+2022-05-07 15:19:01 | [INFO]    | Shard 0 : Session invalidated, re-identifying...
+2022-05-07 15:19:03 | [INFO]    | Shard 0 : Received READY
+2022-05-07 15:36:38 | [INFO]    | Shard 0 : Disconnected
+2022-05-07 15:36:38 | [INFO]    | Shard 0 : Reconnecting after 1046 ms...
+2022-05-07 15:36:39 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-05-07 15:36:39 | [INFO]    | Shard 0 : Received HELLO
+2022-05-07 15:36:39 | [INFO]    | Shard 0 : Session invalidated, re-identifying...
+2022-05-07 15:36:41 | [INFO]    | Shard 0 : Received READY
+2022-05-07 15:58:21 | [INFO]    | Discordia 2.9.1
+2022-05-07 15:58:21 | [INFO]    | Connecting to Discord...
+2022-05-07 15:58:22 | [INFO]    | Authenticated as Thomson#5289
+2022-05-07 15:58:22 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-05-07 15:58:22 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-05-07 15:58:22 | [INFO]    | Shard 0 : Received HELLO
+2022-05-07 15:58:22 | [INFO]    | Shard 0 : Received READY
+2022-05-07 16:01:40 | [INFO]    | Discordia 2.9.1
+2022-05-07 16:01:40 | [INFO]    | Connecting to Discord...
+2022-05-07 16:01:40 | [INFO]    | Authenticated as Thomson#5289
+2022-05-07 16:01:40 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-05-07 16:01:40 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-05-07 16:01:40 | [INFO]    | Shard 0 : Received HELLO
+2022-05-07 16:01:41 | [INFO]    | Shard 0 : Received READY
+2022-05-07 17:17:38 | [INFO]    | Discordia 2.9.1
+2022-05-07 17:17:38 | [INFO]    | Connecting to Discord...
+2022-05-07 17:17:38 | [INFO]    | Authenticated as Thomson#5289
+2022-05-07 17:17:39 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-05-07 17:17:39 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-05-07 17:17:39 | [INFO]    | Shard 0 : Received HELLO
+2022-05-07 17:17:39 | [INFO]    | Shard 0 : Received READY
+2022-05-07 17:29:11 | [INFO]    | Discordia 2.9.1
+2022-05-07 17:29:11 | [INFO]    | Connecting to Discord...
+2022-05-07 17:29:11 | [INFO]    | Authenticated as Thomson#5289
+2022-05-07 17:29:11 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-05-07 17:29:11 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-05-07 17:29:11 | [INFO]    | Shard 0 : Received HELLO
+2022-05-07 17:29:12 | [INFO]    | Shard 0 : Received READY
+2022-05-07 17:29:13 | [ERROR]   | 400 - Bad Request : PATCH https://discord.com/api/v7/channels/972593374274146304/messages/972594115382485022
+2022-05-07 17:30:32 | [ERROR]   | 400 - Bad Request : PATCH https://discord.com/api/v7/channels/972593374274146304/messages/972594115382485022
+2022-05-07 17:31:33 | [ERROR]   | 400 - Bad Request : PATCH https://discord.com/api/v7/channels/972593374274146304/messages/972594115382485022
+2022-05-07 17:35:03 | [INFO]    | Discordia 2.9.1
+2022-05-07 17:35:03 | [INFO]    | Connecting to Discord...
+2022-05-07 17:35:03 | [INFO]    | Authenticated as Thomson#5289
+2022-05-07 17:35:03 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-05-07 17:35:03 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-05-07 17:35:03 | [INFO]    | Shard 0 : Received HELLO
+2022-05-07 17:35:04 | [INFO]    | Shard 0 : Received READY
+2022-05-07 17:35:05 | [ERROR]   | 400 - Bad Request : PATCH https://discord.com/api/v7/channels/972593374274146304/messages/972594115382485022
+2022-05-07 17:44:16 | [INFO]    | Discordia 2.9.1
+2022-05-07 17:44:16 | [INFO]    | Connecting to Discord...
+2022-05-07 17:44:16 | [INFO]    | Authenticated as Thomson#5289
+2022-05-07 17:44:16 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-05-07 17:44:16 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-05-07 17:44:16 | [INFO]    | Shard 0 : Received HELLO
+2022-05-07 17:44:17 | [INFO]    | Shard 0 : Received READY
+2022-05-07 17:44:59 | [INFO]    | Discordia 2.9.1
+2022-05-07 17:44:59 | [INFO]    | Connecting to Discord...
+2022-05-07 17:44:59 | [INFO]    | Authenticated as Thomson#5289
+2022-05-07 17:44:59 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-05-07 17:45:00 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-05-07 17:45:00 | [INFO]    | Shard 0 : Received HELLO
+2022-05-07 17:45:00 | [INFO]    | Shard 0 : Received READY
+2022-05-07 17:45:01 | [ERROR]   | 400 - Bad Request : PATCH https://discord.com/api/v7/channels/972593374274146304/messages/972594115382485022
+2022-05-07 17:51:32 | [INFO]    | Discordia 2.9.1
+2022-05-07 17:51:32 | [INFO]    | Connecting to Discord...
+2022-05-07 17:51:33 | [INFO]    | Authenticated as Thomson#5289
+2022-05-07 17:51:33 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-05-07 17:51:33 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-05-07 17:51:33 | [INFO]    | Shard 0 : Received HELLO
+2022-05-07 17:51:33 | [INFO]    | Shard 0 : Received READY
+2022-05-07 17:56:26 | [INFO]    | Discordia 2.9.1
+2022-05-07 17:56:26 | [INFO]    | Connecting to Discord...
+2022-05-07 17:56:26 | [INFO]    | Authenticated as Thomson#5289
+2022-05-07 17:56:26 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-05-07 17:56:26 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-05-07 17:56:26 | [INFO]    | Shard 0 : Received HELLO
+2022-05-07 17:56:26 | [INFO]    | Shard 0 : Received READY
+2022-05-07 17:56:52 | [INFO]    | Discordia 2.9.1
+2022-05-07 17:56:52 | [INFO]    | Connecting to Discord...
+2022-05-07 17:57:14 | [INFO]    | Discordia 2.9.1
+2022-05-07 17:57:14 | [INFO]    | Connecting to Discord...
+2022-05-07 17:57:15 | [INFO]    | Authenticated as Thomson#5289
+2022-05-07 17:57:15 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-05-07 17:57:15 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-05-07 17:57:15 | [INFO]    | Shard 0 : Received HELLO
+2022-05-07 17:57:15 | [INFO]    | Shard 0 : Received READY
+2022-05-07 17:59:44 | [INFO]    | Discordia 2.9.1
+2022-05-07 17:59:44 | [INFO]    | Connecting to Discord...
+2022-05-07 17:59:44 | [INFO]    | Authenticated as Thomson#5289
+2022-05-07 17:59:44 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-05-07 17:59:44 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-05-07 17:59:44 | [INFO]    | Shard 0 : Received HELLO
+2022-05-07 17:59:44 | [INFO]    | Shard 0 : Received READY
+2022-05-07 18:02:07 | [INFO]    | Discordia 2.9.1
+2022-05-07 18:02:07 | [INFO]    | Connecting to Discord...
+2022-05-07 18:02:07 | [INFO]    | Authenticated as Thomson#5289
+2022-05-07 18:02:07 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-05-07 18:02:07 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-05-07 18:02:07 | [INFO]    | Shard 0 : Received HELLO
+2022-05-07 18:02:07 | [INFO]    | Shard 0 : Received READY
+2022-05-07 18:04:21 | [INFO]    | Discordia 2.9.1
+2022-05-07 18:04:21 | [INFO]    | Connecting to Discord...
+2022-05-07 18:04:21 | [INFO]    | Authenticated as Thomson#5289
+2022-05-07 18:04:21 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-05-07 18:04:21 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-05-07 18:04:21 | [INFO]    | Shard 0 : Received HELLO
+2022-05-07 18:04:22 | [INFO]    | Shard 0 : Received READY
+2022-05-07 18:07:40 | [INFO]    | Discordia 2.9.1
+2022-05-07 18:07:40 | [INFO]    | Connecting to Discord...
+2022-05-07 18:07:50 | [INFO]    | Discordia 2.9.1
+2022-05-07 18:07:50 | [INFO]    | Connecting to Discord...
+2022-05-07 18:09:24 | [INFO]    | Discordia 2.9.1
+2022-05-07 18:09:24 | [INFO]    | Connecting to Discord...
+2022-05-07 18:09:24 | [INFO]    | Authenticated as Thomson#5289
+2022-05-07 18:09:24 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-05-07 18:09:24 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-05-07 18:09:24 | [INFO]    | Shard 0 : Received HELLO
+2022-05-07 18:09:24 | [INFO]    | Shard 0 : Received READY
+2022-05-07 18:23:04 | [INFO]    | Shard 0 : Disconnected
+2023-01-07 17:45:24 | [INFO]    | Discordia 2.9.1
+2023-01-07 17:45:24 | [INFO]    | Connecting to Discord...
+2023-01-07 17:45:25 | [INFO]    | Authenticated as Thomson#5289
+2023-01-07 17:45:25 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-01-07 17:45:26 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-01-07 17:45:26 | [INFO]    | Shard 0 : Received HELLO
+2023-01-07 17:45:26 | [INFO]    | Shard 0 : Received READY
+2023-01-07 17:45:36 | [INFO]    | Discordia 2.9.1
+2023-01-07 17:45:36 | [INFO]    | Connecting to Discord...
+2023-01-07 17:45:36 | [INFO]    | Authenticated as Thomson#5289
+2023-01-07 17:45:36 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-01-07 17:45:37 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-01-07 17:45:37 | [INFO]    | Shard 0 : Received HELLO
+2023-01-07 17:45:37 | [INFO]    | Shard 0 : Received READY
+2023-01-07 17:47:00 | [INFO]    | Discordia 2.9.1
+2023-01-07 17:47:00 | [INFO]    | Connecting to Discord...
+2023-01-07 17:47:00 | [INFO]    | Authenticated as Thomson#5289
+2023-01-07 17:47:00 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-01-07 17:47:00 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-01-07 17:47:00 | [INFO]    | Shard 0 : Received HELLO
+2023-01-07 17:47:01 | [INFO]    | Shard 0 : Received READY
+2023-01-07 17:51:21 | [INFO]    | Discordia 2.9.1
+2023-01-07 17:51:21 | [INFO]    | Connecting to Discord...
+2023-01-07 17:51:21 | [INFO]    | Authenticated as Thomson#5289
+2023-01-07 17:51:21 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-01-07 17:51:21 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-01-07 17:51:21 | [INFO]    | Shard 0 : Received HELLO
+2023-01-07 17:51:22 | [INFO]    | Shard 0 : Received READY
+2023-01-07 17:52:09 | [INFO]    | Discordia 2.9.1
+2023-01-07 17:52:09 | [INFO]    | Connecting to Discord...
+2023-01-07 17:52:09 | [INFO]    | Authenticated as Thomson#5289
+2023-01-07 17:52:09 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-01-07 17:52:09 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-01-07 17:52:09 | [INFO]    | Shard 0 : Received HELLO
+2023-01-07 17:52:10 | [INFO]    | Shard 0 : Received READY
+2023-01-07 17:55:02 | [INFO]    | Discordia 2.9.1
+2023-01-07 17:55:02 | [INFO]    | Connecting to Discord...
+2023-01-07 17:55:03 | [INFO]    | Authenticated as Thomson#5289
+2023-01-07 17:55:03 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-01-07 17:55:03 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-01-07 17:55:03 | [INFO]    | Shard 0 : Received HELLO
+2023-01-07 17:55:03 | [INFO]    | Shard 0 : Received READY
+2023-01-07 17:59:03 | [INFO]    | Discordia 2.9.1
+2023-01-07 17:59:03 | [INFO]    | Connecting to Discord...
+2023-01-07 17:59:03 | [INFO]    | Authenticated as Thomson#5289
+2023-01-07 17:59:03 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-01-07 17:59:03 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-01-07 17:59:03 | [INFO]    | Shard 0 : Received HELLO
+2023-01-07 17:59:04 | [INFO]    | Shard 0 : Received READY
+2023-01-07 18:03:10 | [INFO]    | Discordia 2.9.1
+2023-01-07 18:03:10 | [INFO]    | Connecting to Discord...
+2023-01-07 18:03:11 | [INFO]    | Authenticated as Thomson#5289
+2023-01-07 18:03:11 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-01-07 18:03:11 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-01-07 18:03:11 | [INFO]    | Shard 0 : Received HELLO
+2023-01-07 18:03:11 | [INFO]    | Shard 0 : Received READY
+2023-01-07 18:03:51 | [INFO]    | Discordia 2.9.1
+2023-01-07 18:03:51 | [INFO]    | Connecting to Discord...
+2023-01-07 18:03:51 | [INFO]    | Authenticated as Thomson#5289
+2023-01-07 18:03:51 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-01-07 18:03:51 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-01-07 18:03:51 | [INFO]    | Shard 0 : Received HELLO
+2023-01-07 18:03:52 | [INFO]    | Shard 0 : Received READY
+2023-01-07 18:05:38 | [INFO]    | Discordia 2.9.1
+2023-01-07 18:05:38 | [INFO]    | Connecting to Discord...
+2023-01-07 18:05:39 | [INFO]    | Authenticated as Thomson#5289
+2023-01-07 18:05:39 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-01-07 18:05:39 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-01-07 18:05:39 | [INFO]    | Shard 0 : Received HELLO
+2023-01-07 18:05:39 | [INFO]    | Shard 0 : Received READY
+2023-01-07 18:26:08 | [INFO]    | Discordia 2.9.1
+2023-01-07 18:26:08 | [INFO]    | Connecting to Discord...
+2023-01-07 18:26:09 | [INFO]    | Authenticated as Thomson#5289
+2023-01-07 18:26:09 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-01-07 18:26:09 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-01-07 18:26:09 | [INFO]    | Shard 0 : Received HELLO
+2023-01-07 18:26:09 | [INFO]    | Shard 0 : Received READY
+2023-01-07 18:27:19 | [INFO]    | Discordia 2.9.1
+2023-01-07 18:27:19 | [INFO]    | Connecting to Discord...
+2023-01-07 18:27:20 | [INFO]    | Authenticated as Thomson#5289
+2023-01-07 18:27:20 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-01-07 18:27:20 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-01-07 18:27:20 | [INFO]    | Shard 0 : Received HELLO
+2023-01-07 18:27:20 | [INFO]    | Shard 0 : Received READY
+2023-01-07 18:33:18 | [INFO]    | Discordia 2.9.1
+2023-01-07 18:33:18 | [INFO]    | Connecting to Discord...
+2023-01-07 18:33:18 | [INFO]    | Authenticated as Thomson#5289
+2023-01-07 18:33:18 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-01-07 18:33:19 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-01-07 18:33:19 | [INFO]    | Shard 0 : Received HELLO
+2023-01-07 18:33:19 | [INFO]    | Shard 0 : Received READY
+2023-01-09 21:23:26 | [INFO]    | Discordia 2.9.1
+2023-01-09 21:23:26 | [INFO]    | Connecting to Discord...
+2023-01-09 21:23:27 | [INFO]    | Authenticated as Thomson#5289
+2023-01-09 21:23:27 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-01-09 21:23:28 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-01-09 21:23:28 | [INFO]    | Shard 0 : Received HELLO
+2023-01-09 21:23:28 | [INFO]    | Shard 0 : Received READY
+2023-01-09 21:27:53 | [INFO]    | Discordia 2.9.1
+2023-01-09 21:27:53 | [INFO]    | Connecting to Discord...
+2023-01-09 21:27:54 | [INFO]    | Authenticated as Thomson#5289
+2023-01-09 21:27:54 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-01-09 21:27:54 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-01-09 21:27:54 | [INFO]    | Shard 0 : Received HELLO
+2023-01-09 21:27:55 | [INFO]    | Shard 0 : Received READY
+2023-01-09 22:11:13 | [INFO]    | Discordia 2.9.1
+2023-01-09 22:11:13 | [INFO]    | Connecting to Discord...
+2023-01-09 22:11:13 | [INFO]    | Authenticated as Thomson#5289
+2023-01-09 22:11:13 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-01-09 22:11:13 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-01-09 22:11:13 | [INFO]    | Shard 0 : Received HELLO
+2023-01-09 22:11:14 | [INFO]    | Shard 0 : Received READY
+2023-01-09 22:12:39 | [INFO]    | Discordia 2.9.1
+2023-01-09 22:12:39 | [INFO]    | Connecting to Discord...
+2023-01-09 22:12:39 | [INFO]    | Authenticated as Thomson#5289
+2023-01-09 22:12:39 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-01-09 22:12:39 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-01-09 22:12:39 | [INFO]    | Shard 0 : Received HELLO
+2023-01-09 22:12:40 | [INFO]    | Shard 0 : Received READY
+2023-01-09 22:28:52 | [INFO]    | Discordia 2.9.1
+2023-01-09 22:28:52 | [INFO]    | Connecting to Discord...
+2023-01-09 22:28:52 | [INFO]    | Authenticated as Thomson#5289
+2023-01-09 22:28:52 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-01-09 22:28:53 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-01-09 22:28:53 | [INFO]    | Shard 0 : Received HELLO
+2023-01-09 22:28:53 | [INFO]    | Shard 0 : Received READY
+2023-01-09 22:37:38 | [INFO]    | Discordia 2.9.1
+2023-01-09 22:37:38 | [INFO]    | Connecting to Discord...
+2023-01-09 22:37:38 | [INFO]    | Authenticated as Thomson#5289
+2023-01-09 22:37:38 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-01-09 22:37:38 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-01-09 22:37:38 | [INFO]    | Shard 0 : Received HELLO
+2023-01-09 22:37:39 | [INFO]    | Shard 0 : Received READY
+2023-01-09 22:38:16 | [INFO]    | Discordia 2.9.1
+2023-01-09 22:38:16 | [INFO]    | Connecting to Discord...
+2023-01-09 22:38:16 | [INFO]    | Authenticated as Thomson#5289
+2023-01-09 22:38:16 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-01-09 22:38:17 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-01-09 22:38:17 | [INFO]    | Shard 0 : Received HELLO
+2023-01-09 22:38:17 | [INFO]    | Shard 0 : Received READY
+2023-01-09 22:38:20 | [WARNING] | Uncached TextChannel (490156313796542467) on MESSAGE_DELETE
+2023-01-09 22:38:53 | [INFO]    | Discordia 2.9.1
+2023-01-09 22:38:53 | [INFO]    | Connecting to Discord...
+2023-01-09 22:38:54 | [INFO]    | Authenticated as Thomson#5289
+2023-01-09 22:38:54 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-01-09 22:38:54 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-01-09 22:38:54 | [INFO]    | Shard 0 : Received HELLO
+2023-01-09 22:38:54 | [INFO]    | Shard 0 : Received READY
+2023-01-09 22:38:58 | [WARNING] | Uncached TextChannel (490156313796542467) on MESSAGE_DELETE
+2023-01-09 22:43:34 | [INFO]    | Discordia 2.9.1
+2023-01-09 22:43:34 | [INFO]    | Connecting to Discord...
+2023-01-09 22:43:35 | [INFO]    | Authenticated as Thomson#5289
+2023-01-09 22:43:35 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-01-09 22:43:35 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-01-09 22:43:35 | [INFO]    | Shard 0 : Received HELLO
+2023-01-09 22:43:35 | [INFO]    | Shard 0 : Received READY
+2023-01-09 22:44:13 | [INFO]    | Discordia 2.9.1
+2023-01-09 22:44:13 | [INFO]    | Connecting to Discord...
+2023-01-09 22:44:14 | [INFO]    | Authenticated as Thomson#5289
+2023-01-09 22:44:14 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-01-09 22:44:14 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-01-09 22:44:14 | [INFO]    | Shard 0 : Received HELLO
+2023-01-09 22:44:14 | [INFO]    | Shard 0 : Received READY
+2023-01-09 22:44:17 | [WARNING] | Uncached TextChannel (490156313796542467) on MESSAGE_DELETE
+2023-01-09 22:45:03 | [INFO]    | Discordia 2.9.1
+2023-01-09 22:45:03 | [INFO]    | Connecting to Discord...
+2023-01-09 22:45:03 | [INFO]    | Authenticated as Thomson#5289
+2023-01-09 22:45:03 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-01-09 22:45:04 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-01-09 22:45:04 | [INFO]    | Shard 0 : Received HELLO
+2023-01-09 22:45:04 | [INFO]    | Shard 0 : Received READY
+2023-01-09 22:46:10 | [INFO]    | Discordia 2.9.1
+2023-01-09 22:46:10 | [INFO]    | Connecting to Discord...
+2023-01-09 22:46:10 | [INFO]    | Authenticated as Thomson#5289
+2023-01-09 22:46:10 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-01-09 22:46:11 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-01-09 22:46:11 | [INFO]    | Shard 0 : Received HELLO
+2023-01-09 22:46:11 | [INFO]    | Shard 0 : Received READY
+2023-01-09 22:47:23 | [INFO]    | Discordia 2.9.1
+2023-01-09 22:47:23 | [INFO]    | Connecting to Discord...
+2023-01-09 22:47:24 | [INFO]    | Authenticated as Thomson#5289
+2023-01-09 22:47:24 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-01-09 22:47:24 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-01-09 22:47:24 | [INFO]    | Shard 0 : Received HELLO
+2023-01-09 22:47:25 | [INFO]    | Shard 0 : Received READY
+2023-01-09 22:47:49 | [INFO]    | Discordia 2.9.1
+2023-01-09 22:47:49 | [INFO]    | Connecting to Discord...
+2023-01-09 22:47:49 | [INFO]    | Authenticated as Thomson#5289
+2023-01-09 22:47:49 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-01-09 22:47:50 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-01-09 22:47:50 | [INFO]    | Shard 0 : Received HELLO
+2023-01-09 22:47:50 | [INFO]    | Shard 0 : Received READY
+2023-01-09 22:48:12 | [INFO]    | Discordia 2.9.1
+2023-01-09 22:48:12 | [INFO]    | Connecting to Discord...
+2023-01-09 22:48:12 | [INFO]    | Authenticated as Thomson#5289
+2023-01-09 22:48:12 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-01-09 22:48:13 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-01-09 22:48:13 | [INFO]    | Shard 0 : Received HELLO
+2023-01-09 22:48:13 | [INFO]    | Shard 0 : Received READY
+2023-01-09 22:48:52 | [INFO]    | Discordia 2.9.1
+2023-01-09 22:48:52 | [INFO]    | Connecting to Discord...
+2023-01-09 22:48:53 | [INFO]    | Authenticated as Thomson#5289
+2023-01-09 22:48:53 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-01-09 22:48:53 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-01-09 22:48:53 | [INFO]    | Shard 0 : Received HELLO
+2023-01-09 22:48:53 | [INFO]    | Shard 0 : Received READY
+2023-01-09 22:54:38 | [INFO]    | Discordia 2.9.1
+2023-01-09 22:54:38 | [INFO]    | Connecting to Discord...
+2023-01-09 22:54:38 | [INFO]    | Authenticated as Thomson#5289
+2023-01-09 22:54:38 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-01-09 22:54:39 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-01-09 22:54:39 | [INFO]    | Shard 0 : Received HELLO
+2023-01-09 22:54:39 | [INFO]    | Shard 0 : Received READY
+2023-01-09 22:55:24 | [INFO]    | Discordia 2.9.1
+2023-01-09 22:55:24 | [INFO]    | Connecting to Discord...
+2023-01-09 22:55:29 | [INFO]    | Authenticated as Thomson#5289
+2023-01-09 22:55:29 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-01-09 22:55:30 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-01-09 22:55:30 | [INFO]    | Shard 0 : Received HELLO
+2023-01-09 22:55:30 | [INFO]    | Shard 0 : Received READY
+2023-01-09 22:56:26 | [INFO]    | Discordia 2.9.1
+2023-01-09 22:56:26 | [INFO]    | Connecting to Discord...
+2023-01-09 22:56:26 | [INFO]    | Authenticated as Thomson#5289
+2023-01-09 22:56:26 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-01-09 22:56:27 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-01-09 22:56:27 | [INFO]    | Shard 0 : Received HELLO
+2023-01-09 22:56:27 | [INFO]    | Shard 0 : Received READY
+2023-01-09 22:56:53 | [INFO]    | Discordia 2.9.1
+2023-01-09 22:56:53 | [INFO]    | Connecting to Discord...
+2023-01-09 22:56:54 | [INFO]    | Authenticated as Thomson#5289
+2023-01-09 22:56:54 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-01-09 22:56:54 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-01-09 22:56:54 | [INFO]    | Shard 0 : Received HELLO
+2023-01-09 22:56:54 | [INFO]    | Shard 0 : Received READY
+2023-01-09 22:58:30 | [INFO]    | Discordia 2.9.1
+2023-01-09 22:58:30 | [INFO]    | Connecting to Discord...
+2023-01-09 22:58:30 | [INFO]    | Authenticated as Thomson#5289
+2023-01-09 22:58:30 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-01-09 22:58:31 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-01-09 22:58:31 | [INFO]    | Shard 0 : Received HELLO
+2023-01-09 22:58:31 | [INFO]    | Shard 0 : Received READY
+2023-01-09 22:58:51 | [INFO]    | Discordia 2.9.1
+2023-01-09 22:58:51 | [INFO]    | Connecting to Discord...
+2023-01-09 22:58:51 | [INFO]    | Authenticated as Thomson#5289
+2023-01-09 22:58:51 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-01-09 22:58:52 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-01-09 22:58:52 | [INFO]    | Shard 0 : Received HELLO
+2023-01-09 22:58:52 | [INFO]    | Shard 0 : Received READY
+2023-01-09 23:00:38 | [INFO]    | Discordia 2.9.1
+2023-01-09 23:00:38 | [INFO]    | Connecting to Discord...
+2023-01-09 23:00:38 | [INFO]    | Authenticated as Thomson#5289
+2023-01-09 23:00:38 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-01-09 23:00:38 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-01-09 23:00:38 | [INFO]    | Shard 0 : Received HELLO
+2023-01-09 23:00:39 | [INFO]    | Shard 0 : Received READY
+2023-01-09 23:01:13 | [INFO]    | Discordia 2.9.1
+2023-01-09 23:01:13 | [INFO]    | Connecting to Discord...
+2023-01-09 23:01:14 | [INFO]    | Authenticated as Thomson#5289
+2023-01-09 23:01:14 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-01-09 23:01:14 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-01-09 23:01:14 | [INFO]    | Shard 0 : Received HELLO
+2023-01-09 23:01:14 | [INFO]    | Shard 0 : Received READY
+2023-01-09 23:04:41 | [INFO]    | Discordia 2.9.1
+2023-01-09 23:04:41 | [INFO]    | Connecting to Discord...
+2023-01-09 23:04:42 | [INFO]    | Authenticated as Thomson#5289
+2023-01-09 23:04:42 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-01-09 23:04:42 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-01-09 23:04:42 | [INFO]    | Shard 0 : Received HELLO
+2023-01-09 23:04:42 | [INFO]    | Shard 0 : Received READY
+2023-01-09 23:05:00 | [INFO]    | Discordia 2.9.1
+2023-01-09 23:05:00 | [INFO]    | Connecting to Discord...
+2023-01-09 23:05:01 | [INFO]    | Authenticated as Thomson#5289
+2023-01-09 23:05:01 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-01-09 23:05:01 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-01-09 23:05:01 | [INFO]    | Shard 0 : Received HELLO
+2023-01-09 23:05:01 | [INFO]    | Shard 0 : Received READY
+2023-01-09 23:06:40 | [INFO]    | Discordia 2.9.1
+2023-01-09 23:06:40 | [INFO]    | Connecting to Discord...
+2023-01-09 23:06:41 | [INFO]    | Authenticated as Thomson#5289
+2023-01-09 23:06:41 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-01-09 23:06:41 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-01-09 23:06:41 | [INFO]    | Shard 0 : Received HELLO
+2023-01-09 23:06:41 | [INFO]    | Shard 0 : Received READY
+2023-01-09 23:07:01 | [INFO]    | Discordia 2.9.1
+2023-01-09 23:07:01 | [INFO]    | Connecting to Discord...
+2023-01-09 23:07:01 | [INFO]    | Authenticated as Thomson#5289
+2023-01-09 23:07:01 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-01-09 23:07:01 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-01-09 23:07:01 | [INFO]    | Shard 0 : Received HELLO
+2023-01-09 23:07:02 | [INFO]    | Shard 0 : Received READY
+2023-01-09 23:07:35 | [INFO]    | Discordia 2.9.1
+2023-01-09 23:07:35 | [INFO]    | Connecting to Discord...
+2023-01-09 23:07:35 | [INFO]    | Authenticated as Thomson#5289
+2023-01-09 23:07:35 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-01-09 23:07:36 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-01-09 23:07:36 | [INFO]    | Shard 0 : Received HELLO
+2023-01-09 23:07:36 | [INFO]    | Shard 0 : Received READY
+2023-01-09 23:07:50 | [INFO]    | Discordia 2.9.1
+2023-01-09 23:07:50 | [INFO]    | Connecting to Discord...
+2023-01-09 23:07:50 | [INFO]    | Authenticated as Thomson#5289
+2023-01-09 23:07:50 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-01-09 23:07:51 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-01-09 23:07:51 | [INFO]    | Shard 0 : Received HELLO
+2023-01-09 23:07:51 | [INFO]    | Shard 0 : Received READY
+2023-01-09 23:14:17 | [INFO]    | Discordia 2.9.1
+2023-01-09 23:14:17 | [INFO]    | Connecting to Discord...
+2023-01-09 23:14:18 | [INFO]    | Authenticated as Thomson#5289
+2023-01-09 23:14:18 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-01-09 23:14:18 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-01-09 23:14:18 | [INFO]    | Shard 0 : Received HELLO
+2023-01-09 23:14:19 | [INFO]    | Shard 0 : Received READY
+2023-01-09 23:23:28 | [INFO]    | Discordia 2.9.1
+2023-01-09 23:23:28 | [INFO]    | Connecting to Discord...
+2023-01-09 23:23:28 | [INFO]    | Authenticated as thomson#0443
+2023-01-09 23:23:28 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-01-09 23:23:28 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-01-09 23:23:28 | [INFO]    | Shard 0 : Received HELLO
+2023-01-09 23:23:29 | [INFO]    | Shard 0 : Received READY
+2023-01-09 23:29:17 | [INFO]    | Discordia 2.9.1
+2023-01-09 23:29:17 | [INFO]    | Connecting to Discord...
+2023-01-09 23:29:18 | [INFO]    | Authenticated as thomson#0443
+2023-01-09 23:29:18 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-01-09 23:29:18 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-01-09 23:29:18 | [INFO]    | Shard 0 : Received HELLO
+2023-01-09 23:29:19 | [INFO]    | Shard 0 : Received READY
+2023-01-09 23:53:04 | [INFO]    | Discordia 2.9.1
+2023-01-09 23:53:04 | [INFO]    | Connecting to Discord...
+2023-01-09 23:53:05 | [INFO]    | Authenticated as thomson#0443
+2023-01-09 23:53:05 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-01-09 23:53:05 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-01-09 23:53:05 | [INFO]    | Shard 0 : Received HELLO
+2023-01-09 23:53:05 | [INFO]    | Shard 0 : Received READY
+2023-01-09 23:53:25 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/channels/672769067475533834/messages/bulk-delete
+2023-01-09 23:53:25 | [ERROR]   | 400 - Bad Request : PATCH https://discord.com/api/v7/channels/672769067475533834/messages/966798397229133825
+2023-01-09 23:55:20 | [INFO]    | Discordia 2.9.1
+2023-01-09 23:55:20 | [INFO]    | Connecting to Discord...
+2023-01-09 23:55:21 | [INFO]    | Authenticated as thomson#0443
+2023-01-09 23:55:21 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-01-09 23:55:21 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-01-09 23:55:21 | [INFO]    | Shard 0 : Received HELLO
+2023-01-09 23:55:21 | [INFO]    | Shard 0 : Received READY
+2023-01-09 23:55:33 | [ERROR]   | 400 - Bad Request : PATCH https://discord.com/api/v7/channels/672769067475533834/messages/966798397229133825
+2023-01-09 23:59:00 | [INFO]    | Discordia 2.9.1
+2023-01-09 23:59:00 | [INFO]    | Connecting to Discord...
+2023-01-09 23:59:00 | [INFO]    | Authenticated as thomson#0443
+2023-01-09 23:59:00 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-01-09 23:59:00 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-01-09 23:59:00 | [INFO]    | Shard 0 : Received HELLO
+2023-01-09 23:59:01 | [INFO]    | Shard 0 : Received READY
+2023-01-10 00:45:47 | [INFO]    | Shard 0 : Disconnected
+2023-01-11 15:13:01 | [INFO]    | Discordia 2.9.1
+2023-01-11 15:13:01 | [INFO]    | Connecting to Discord...
+2023-01-11 15:13:02 | [INFO]    | Authenticated as thomson#0443
+2023-01-11 15:13:02 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-01-11 15:13:02 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-01-11 15:13:02 | [INFO]    | Shard 0 : Received HELLO
+2023-01-11 15:13:03 | [INFO]    | Shard 0 : Received READY
+2023-01-11 15:16:32 | [INFO]    | Discordia 2.9.1
+2023-01-11 15:16:32 | [INFO]    | Connecting to Discord...
+2023-01-11 15:16:32 | [INFO]    | Authenticated as clovis#0443
+2023-01-11 15:16:32 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-01-11 15:16:32 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-01-11 15:16:32 | [INFO]    | Shard 0 : Received HELLO
+2023-01-11 15:16:33 | [INFO]    | Shard 0 : Received READY
+2023-01-11 15:20:40 | [INFO]    | Shard 0 : Disconnected
+2023-01-11 15:20:40 | [INFO]    | Shard 0 : Reconnecting after 989 ms...
+2023-01-11 15:20:41 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-01-11 15:20:41 | [INFO]    | Shard 0 : Received HELLO
+2023-01-11 15:20:42 | [INFO]    | Shard 0 : Received RESUMED
+2023-01-11 15:28:01 | [INFO]    | Discordia 2.9.1
+2023-01-11 15:28:01 | [INFO]    | Connecting to Discord...
+2023-01-11 15:28:01 | [INFO]    | Authenticated as clovis#0443
+2023-01-11 15:28:01 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-01-11 15:28:01 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-01-11 15:28:01 | [INFO]    | Shard 0 : Received HELLO
+2023-01-11 15:28:02 | [INFO]    | Shard 0 : Received READY
+2023-01-11 15:37:29 | [INFO]    | Shard 0 : Disconnected
+2023-01-11 15:37:29 | [INFO]    | Shard 0 : Reconnecting after 1095 ms...
+2023-01-11 15:37:30 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-01-11 15:37:30 | [INFO]    | Shard 0 : Received HELLO
+2023-01-11 15:37:30 | [INFO]    | Shard 0 : Received RESUMED
+2023-01-11 15:43:19 | [INFO]    | Discordia 2.9.1
+2023-01-11 15:43:19 | [INFO]    | Connecting to Discord...
+2023-01-11 15:43:20 | [INFO]    | Authenticated as clovis#0443
+2023-01-11 15:43:20 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-01-11 15:43:20 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-01-11 15:43:20 | [INFO]    | Shard 0 : Received HELLO
+2023-01-11 15:43:20 | [INFO]    | Shard 0 : Received READY
+2023-01-11 15:44:16 | [INFO]    | Discordia 2.9.1
+2023-01-11 15:44:16 | [INFO]    | Connecting to Discord...
+2023-01-11 15:44:17 | [INFO]    | Authenticated as clovis#0443
+2023-01-11 15:44:17 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-01-11 15:44:17 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-01-11 15:44:17 | [INFO]    | Shard 0 : Received HELLO
+2023-01-11 15:44:17 | [INFO]    | Shard 0 : Received READY
+2023-01-11 15:46:07 | [INFO]    | Discordia 2.9.1
+2023-01-11 15:46:07 | [INFO]    | Connecting to Discord...
+2023-01-11 15:46:08 | [INFO]    | Authenticated as clovis#0443
+2023-01-11 15:46:08 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-01-11 15:46:08 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-01-11 15:46:08 | [INFO]    | Shard 0 : Received HELLO
+2023-01-11 15:46:08 | [INFO]    | Shard 0 : Received READY
+2023-01-11 15:49:37 | [INFO]    | Discordia 2.9.1
+2023-01-11 15:49:37 | [INFO]    | Connecting to Discord...
+2023-01-11 15:49:38 | [INFO]    | Authenticated as clovis#0443
+2023-01-11 15:49:38 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-01-11 15:49:38 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-01-11 15:49:38 | [INFO]    | Shard 0 : Received HELLO
+2023-01-11 15:49:38 | [INFO]    | Shard 0 : Received READY
+2023-01-11 15:50:54 | [INFO]    | Discordia 2.9.1
+2023-01-11 15:50:54 | [INFO]    | Connecting to Discord...
+2023-01-11 15:50:54 | [INFO]    | Authenticated as clovis#0443
+2023-01-11 15:50:54 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-01-11 15:50:55 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-01-11 15:50:55 | [INFO]    | Shard 0 : Received HELLO
+2023-01-11 15:50:55 | [INFO]    | Shard 0 : Received READY
+2023-01-11 15:53:27 | [INFO]    | Shard 0 : Disconnected
+2023-01-11 15:53:27 | [INFO]    | Shard 0 : Reconnecting after 989 ms...
+2023-01-11 15:53:29 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-01-11 15:53:29 | [INFO]    | Shard 0 : Received HELLO
+2023-01-11 15:53:29 | [INFO]    | Shard 0 : Received RESUMED
+2023-01-11 15:57:19 | [INFO]    | Discordia 2.9.1
+2023-01-11 15:57:19 | [INFO]    | Connecting to Discord...
+2023-01-11 15:57:19 | [INFO]    | Authenticated as clovis#0443
+2023-01-11 15:57:19 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-01-11 15:57:20 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-01-11 15:57:20 | [INFO]    | Shard 0 : Received HELLO
+2023-01-11 15:57:20 | [INFO]    | Shard 0 : Received READY
+2023-01-11 15:58:05 | [INFO]    | Discordia 2.9.1
+2023-01-11 15:58:05 | [INFO]    | Connecting to Discord...
+2023-01-11 15:58:06 | [INFO]    | Authenticated as clovis#0443
+2023-01-11 15:58:06 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-01-11 15:58:06 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-01-11 15:58:06 | [INFO]    | Shard 0 : Received HELLO
+2023-01-11 15:58:06 | [INFO]    | Shard 0 : Received READY
+2023-01-11 15:58:36 | [INFO]    | Discordia 2.9.1
+2023-01-11 15:58:36 | [INFO]    | Connecting to Discord...
+2023-01-11 15:58:37 | [INFO]    | Authenticated as clovis#0443
+2023-01-11 15:58:37 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-01-11 15:58:37 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-01-11 15:58:37 | [INFO]    | Shard 0 : Received HELLO
+2023-01-11 15:58:37 | [INFO]    | Shard 0 : Received READY
+2023-01-11 15:59:07 | [INFO]    | Discordia 2.9.1
+2023-01-11 15:59:07 | [INFO]    | Connecting to Discord...
+2023-01-11 15:59:08 | [INFO]    | Authenticated as clovis#0443
+2023-01-11 15:59:08 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-01-11 15:59:08 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-01-11 15:59:08 | [INFO]    | Shard 0 : Received HELLO
+2023-01-11 15:59:08 | [INFO]    | Shard 0 : Received READY
+2023-01-11 16:00:08 | [INFO]    | Discordia 2.9.1
+2023-01-11 16:00:08 | [INFO]    | Connecting to Discord...
+2023-01-11 16:00:08 | [INFO]    | Authenticated as clovis#0443
+2023-01-11 16:00:08 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-01-11 16:00:08 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-01-11 16:00:08 | [INFO]    | Shard 0 : Received HELLO
+2023-01-11 16:00:09 | [INFO]    | Shard 0 : Received READY
+2023-01-11 16:02:30 | [INFO]    | Discordia 2.9.1
+2023-01-11 16:02:30 | [INFO]    | Connecting to Discord...
+2023-01-11 16:02:32 | [INFO]    | Authenticated as clovis#0443
+2023-01-11 16:02:32 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-01-11 16:02:32 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-01-11 16:02:32 | [INFO]    | Shard 0 : Received HELLO
+2023-01-11 16:02:32 | [INFO]    | Shard 0 : Received READY
+2023-01-11 16:03:10 | [INFO]    | Discordia 2.9.1
+2023-01-11 16:03:10 | [INFO]    | Connecting to Discord...
+2023-01-11 16:03:11 | [INFO]    | Authenticated as clovis#0443
+2023-01-11 16:03:11 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-01-11 16:03:11 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-01-11 16:03:11 | [INFO]    | Shard 0 : Received HELLO
+2023-01-11 16:03:14 | [INFO]    | Shard 0 : Received READY
